@@ -1,0 +1,30 @@
+//for bower
+{
+  "name": "spring-boot-basic",
+  "version": "1.0.0",
+  "homepage": "https://github.com/antonnaumoff/spring-boot-basic",
+  "authors": [
+    "antonnaumoff <antonnaumoff@gmail.com>"
+  ],
+  "main": "com.antonnaumoff.Application",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "~1.4.7",
+    "angular-animate": "~1.4.7",
+    "angular-block-ui": "~0.2.0",
+    "angular-bootstrap": "angular-ui-bootstrap-bower#~0.14.3",
+    "angular-busy": "~4.1.3",
+    "angular-translate": "~2.8.1",
+    "angular-ui-router": "~0.2.15",
+    "AngularJS-Toaster": "~0.4.15",
+    "bootstrap": "~3.3.5",
+    "Chart.js": "chartjs#~1.0.2",
+    "font-awesome": "~4.4.0",
+    "jquery": "~2.1.4",
+    "lodash": "~3.10.1"
+  },
+  "resolutions": {
+    "angular": "~1.4.7",
+    "angular-animate": "~1.4.7"
+  }
+}

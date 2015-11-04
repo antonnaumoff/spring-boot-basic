@@ -1,0 +1,26 @@
+//for npm
+
+{
+  "name": "spring-boot-basic",
+  "version": "1.0.0",
+  "description": "basic config for spring boot",
+  "main": "index.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bower-install": "bower install"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/antonnaumoff/spring-boot-basic.git"
+  },
+
+  "author": "antonnaumoff",
+
+  "license": "MIT",
+
+  "bugs": {
+    "url": "https://github.com/antonnaumoff/spring-boot-basic/issues"
+  }
+}
